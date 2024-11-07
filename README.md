@@ -1,1 +1,1 @@
-# Summer-and-Winter
+# Summer-and-Winter Interactive Coding Project
