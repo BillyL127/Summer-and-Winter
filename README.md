@@ -91,34 +91,28 @@ Editing Character Movement: You can adjust the movement of characters (such as b
 By interacting with the progress bar, customizing speeds, colors, and character actions, you can personalize the experience and explore different seasonal dynamics within this project.
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _complete_ 
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- Enhanced interaction: Allow users to control more elements, like changing weather or time of day.
+- Improved animations: Add more detailed and physics-based animations for greater realism.
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
+- Physics-based interactions for elements like snowflakes and waves.
+- Additional seasonal scenes, such as spring and autumn, to expand the project’s scope.
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+Inspired by the YouTube video "Creative Coding for Beginners - Full Course!" by Dan.
+Resources used:
+Programming 101 by Meyer
+Coding Art: A Guide to Creativity with Processing and p5.js by Funk
+Geometric Computation: Foundations for Design by Ko
+Processing Cheat Sheet by Openlab
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [@BillyL127](https://www.flynerd.pl/) - feel free to contact me!
