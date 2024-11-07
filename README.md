@@ -25,21 +25,23 @@ Reason: This project was undertaken to combine coding with artistic design princ
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+Processing.py - Python mode for Processing
+Python - version 3.x
 
 
 ## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+Seasonal Transitions: Toggle between summer and winter scenes through an interactive progress bar.
+Custom Animations: Includes elements like moving clouds, birds, and falling snowflakes to bring each season to life.
+User Interaction: The progress bar allows users to control seasonal changes, creating a personalized experience.
+Distinct Color Palettes: Custom colors for summer and winter scenes, reflecting the mood of each season.
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+<img width="797" alt="Summer Screenshot" src="https://github.com/user-attachments/assets/10c769e6-f278-43b9-b5c0-c616ddce8069">
+Description: A bright, sunny beach scene with moving clouds and birds.
+
+<img width="793" alt="Winter Screenshot" src="https://github.com/user-attachments/assets/7bf1f84f-3319-41dc-b171-c11054ad0cda">
+Description: A snowy winter scene with falling snowflakes, a snowman, and characters having a snowball fight
 
 
 ## Setup
