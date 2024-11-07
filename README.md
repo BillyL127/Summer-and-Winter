@@ -71,8 +71,7 @@ cloudX += 2  # Default speed is 2; increase or decrease this value for different
 Adjusting Snowflake Size and Speed
 To customize snowflake appearance in the winter scene:
 `# Inside the setup() function, where snowflakes are initialized
-snowflakes = [[random(width), random(-50, height), random(1, 5)] for _ in range(100)]
-# Modify the range in random(1, 5) to increase or decrease the fall speed of snowflakes
+snowflakes = [[random(width), random(-50, height), random(1, 5)] for _ in range(100)]# Modify the range in random(1, 5) to increase or decrease the fall speed of snowflakes
 `
 
 Changing Colors of Seasonal Elements
